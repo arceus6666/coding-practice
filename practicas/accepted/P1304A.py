@@ -1,4 +1,5 @@
-# easy inputs
+# Two Rabbits - codeforces
+# accepted
 
 import math, sys
 input = sys.stdin.readline
@@ -17,13 +18,7 @@ def insr():
 def invr():
     return list(map(int,input().split()))
     
-# number with all distinct digits
-def diff(n):
-    ar = [0] * 10
-    while n > 0:
-        digit = math.floor(n % 10)
-        if (ar[digit]):
-            return 0
-        ar[digit] = 1
-        n = int(n / 10)
-    return 1
+for x in range(inp()):
+    n = invr()
+    v = (n[1] - n[0]) / (n[2] + n[3])
+    print(int(v) if v.is_integer() else "-1")

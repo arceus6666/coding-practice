@@ -1,4 +1,5 @@
-# easy inputs
+# Beautiful Year - codeforces
+# accepted
 
 import math, sys
 input = sys.stdin.readline
@@ -16,8 +17,7 @@ def insr():
 # For taking space seperated integer variable inputs
 def invr():
     return list(map(int,input().split()))
-    
-# number with all distinct digits
+
 def diff(n):
     ar = [0] * 10
     while n > 0:
@@ -27,3 +27,9 @@ def diff(n):
         ar[digit] = 1
         n = int(n / 10)
     return 1
+    
+y = inp() + 1
+
+while (not diff(y)):
+    y+=1
+print(y)
