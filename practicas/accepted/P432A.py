@@ -1,14 +1,15 @@
-# easy inputs
+# Choosing Teams - codeforces
+# accepted
 
 import math, sys
 input = sys.stdin.readline
 
 # For taking integer inputs
 def inp():
-    return int(input())
+    return(int(input()))
 # For taking List inputs
 def inlt():
-    return list(map(int, input().split()))
+    return(list(map(int,input().split())))
 # For taking string inputs
 def insr():
     s = input()
@@ -17,13 +18,13 @@ def insr():
 def invr():
     return list(map(int, input().split()))
     
-# number with all distinct digits
-def diff(n):
-    ar = [0] * 10
-    while n > 0:
-        digit = math.floor(n % 10)
-        if (ar[digit]):
-            return 0
-        ar[digit] = 1
-        n = int(n / 10)
-    return 1
+nk = invr()
+n = nk[0]
+k = nk[1]
+y = invr()
+y.sort()
+w = 0
+for e in y:
+    if e + k < 6:
+        w += 1
+print(int(w / 3))
