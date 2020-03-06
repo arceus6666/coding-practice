@@ -8,7 +8,7 @@ def inp():
     return int(input())
 # For taking List inputs
 def inlt():
-    return list(map(int, input().split()))
+    return list(map(str, input().split()))
 # For taking string inputs
 def insr():
     s = input()
@@ -27,3 +27,11 @@ def diff(n):
         ar[digit] = 1
         n = int(n / 10)
     return 1
+
+# char to int
+# chr(97) -> 'a'
+# int to char
+# ord('a') -> 97
+
+# remove from array
+# del arr[index]
