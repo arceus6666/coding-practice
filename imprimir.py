@@ -6,16 +6,18 @@ input = sys.stdin.readline
 # For taking integer inputs
 def inp():
     return int(input())
-# For taking List inputs
+# For taking space separated string variable inputs
 def inlt():
     return list(map(str, input().split()))
 # For taking string inputs
 def insr():
     s = input()
     return list(s[:len(s) - 1])
-# For taking space seperated integer variable inputs
+# For taking space separated integer variable inputs
 def invr():
     return list(map(int, input().split()))
+
+################################
     
 # number with all distinct digits
 def diff(n):
