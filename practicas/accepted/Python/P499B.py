@@ -1,5 +1,5 @@
 # Lecture - codeforces
-# 
+# accepted
 
 def inlt():
     return list(map(str, input().split()))
