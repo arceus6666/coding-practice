@@ -7,18 +7,18 @@ input = sys.stdin.readline
 def inp():
     return int(input())
 
-# For taking space separated string variable inputs
-def inlt():
-    return list(map(str, input().split()))
+# For taking space separated integer variable inputs
+def invr():
+    return list(map(int, input().split()))
 
 # For taking string inputs
 def insr():
     s = input()
     return list(s[:len(s) - 1])
 
-# For taking space separated integer variable inputs
-def invr():
-    return list(map(int, input().split()))
+# For taking space separated string variable inputs
+def inlt():
+    return list(map(str, input().split()))
 
 ################################
     
@@ -32,6 +32,37 @@ def diff(n):
         ar[digit] = 1
         n = int(n / 10)
     return 1
+
+# check if subarray B is in array A
+# n = len(A); m = len(B)
+def isSubArray(A, B, n, m):
+
+    # Two pointers to traverse the arrays
+    i = 0
+    j = 0
+
+    # Traverse both arrays simultaneously
+    while (i < n and j < m):
+
+        # If element matches
+        # increment both pointers
+        if (A[i] == B[j]):
+
+            i += 1
+            j += 1
+
+            # If array B is completely
+            # traversed
+            if (j == m):
+                return i - m
+
+        # If not,
+        # increment i and reset j
+        else:
+            i = i - j + 1
+            j = 0
+
+    return -1
 
 # k taken n combination
 # n!/k!(n-k)!
