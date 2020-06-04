@@ -1,4 +1,4 @@
-# Square? - codeforces
+# Square? - CodeForces
 # accepted
 
 

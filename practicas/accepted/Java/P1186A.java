@@ -1,6 +1,6 @@
 
-// vus the cossack and a contest - codeforcces
-// ACCEPTED!
+// Vus the cossack and a contest - codeforcces
+// Status: Accepted!
 
 import java.util.Scanner;
 

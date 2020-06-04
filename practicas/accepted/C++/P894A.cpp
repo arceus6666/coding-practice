@@ -1,5 +1,5 @@
-// QAQ - codeforces
-// accepted
+// QAQ - CodeForces
+// Status: Accepted
 
 #include <iostream>
 using namespace std;

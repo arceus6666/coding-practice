@@ -1,5 +1,5 @@
-// Cards - codeforces
-// Accepted
+// Cards - CodeForces
+// Status: Accepted
 
 // import java.util.Arrays;
 import java.util.Scanner;

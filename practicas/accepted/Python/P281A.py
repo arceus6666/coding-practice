@@ -1,4 +1,4 @@
-# Word Capitalization - codeforces
+# Word Capitalization - CodeForces
 # accepted
 
 import math, sys

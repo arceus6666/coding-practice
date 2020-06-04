@@ -1,4 +1,4 @@
-# The New Year: Meeting Friends - codeforces
+# The New Year: Meeting Friends - CodeForces
 # accepted
 
 import math

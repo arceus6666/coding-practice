@@ -1,4 +1,4 @@
-# Far Relative’s Birthday Cake - codeforces
+# Far Relative’s Birthday Cake - CodeForces
 # accepted
 
 import math

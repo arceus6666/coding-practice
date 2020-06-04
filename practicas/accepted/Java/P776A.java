@@ -1,5 +1,5 @@
-// A serial killer - codeforces
-// accepted
+// A serial killer - CodeForces
+// Status: Accepted
 
 import java.util.Scanner;
 

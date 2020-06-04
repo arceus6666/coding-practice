@@ -1,4 +1,4 @@
-# Kanban Numbers - codeforces
+# Kanban Numbers - CodeForces
 # accepted
 import math
 import sys

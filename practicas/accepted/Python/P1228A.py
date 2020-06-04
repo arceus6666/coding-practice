@@ -1,4 +1,4 @@
-# Distinct Digits - codeforces
+# Distinct Digits - CodeForces
 # accepted
 
 import math, sys

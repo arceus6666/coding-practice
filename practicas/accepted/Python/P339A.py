@@ -1,4 +1,4 @@
-# Helpful Maths - codeforces
+# Helpful Maths - CodeForces
 # accepted
 
 import math, sys

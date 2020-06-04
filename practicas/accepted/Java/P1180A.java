@@ -1,6 +1,6 @@
 
-// alex and a rhombus - codeforces
-// ACCEPTED!
+// Alex and a rhombus - CodeForces
+// Status: Accepted!
 
 import java.util.Scanner;
 

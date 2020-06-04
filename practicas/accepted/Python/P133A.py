@@ -1,4 +1,4 @@
-# HQ9+ - codeforces
+# HQ9+ - CodeForces
 # accepted
 
 import math

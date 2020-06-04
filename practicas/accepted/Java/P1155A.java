@@ -1,6 +1,6 @@
 
-// Reverse a Substring - codeforces
-// ACCEPTED!
+// Reverse a Substring - CodeForces
+// Status: Accepted!
 
 import java.util.Scanner;
 

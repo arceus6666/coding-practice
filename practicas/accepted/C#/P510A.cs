@@ -1,5 +1,5 @@
-// Fox and Snake - codeforces
-// accepted
+// Fox and Snake - CodeForces
+// Status: Accepted
 
 using System;
 

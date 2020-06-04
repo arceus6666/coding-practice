@@ -1,5 +1,5 @@
 //Circle Metro - CodeForces
-// ACCEPTED!
+// Status: Accepted!
 import java.util.Scanner;
 
 public class P1169A {

@@ -1,4 +1,4 @@
-# next round - codeforces
+# next round - CodeForces
 # accepted
 
 import math

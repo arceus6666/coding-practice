@@ -1,4 +1,4 @@
-# watermelon - codeforces
+# watermelon - CodeForces
 # accepted
 
 import math

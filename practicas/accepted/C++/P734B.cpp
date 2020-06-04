@@ -1,5 +1,5 @@
-// anton and digits - codeforces
-// acepted
+// Anton and digits - CodeForces
+// Status: Accepted
 
 #include <iostream>
 using namespace std;

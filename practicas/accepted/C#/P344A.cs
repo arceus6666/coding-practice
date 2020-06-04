@@ -1,5 +1,5 @@
-// Magnets - codeforces
-// accepted
+// Magnets - CodeForces
+// Status: Accepted
 
 using System;
 

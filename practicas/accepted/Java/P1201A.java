@@ -1,5 +1,5 @@
-// important exam - codeforces
-// accepted
+// important exam - CodeForces
+// Status: Accepted
 
 import java.util.Arrays;
 import java.util.Scanner;

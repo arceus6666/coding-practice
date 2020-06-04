@@ -1,4 +1,4 @@
-# Rooms and Staircases - codeforces
+# Rooms and Staircases - CodeForces
 # accepted
 
 import math

@@ -1,6 +1,6 @@
 
-// Inscribed figures - codeforces
-// ACCEPTED!
+// Inscribed figures - CodeForces
+// Status: Accepted!
 import java.util.Scanner;
 
 public class P1156A {

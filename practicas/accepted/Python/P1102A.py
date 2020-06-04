@@ -1,4 +1,4 @@
-# Integer Sequence Dividing - codeforces
+# Integer Sequence Dividing - CodeForces
 # accepted
 
 import math, sys

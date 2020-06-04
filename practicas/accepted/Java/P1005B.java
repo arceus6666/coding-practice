@@ -1,5 +1,5 @@
-// delete from the left - codeforces
-// accepted
+// Delete from the left - CodeForces
+// Status: Accepted
 
 import java.util.Scanner;
 

@@ -1,5 +1,5 @@
-// superhero transformation
-// accepted
+// Superhero transformation
+// Status: Accepted
 
 import java.util.Scanner;
 

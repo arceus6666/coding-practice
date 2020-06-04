@@ -1,4 +1,4 @@
-# Wrong Subtraction - codeforces
+# Wrong Subtraction - CodeForces
 # accepted
 
 import math

@@ -1,4 +1,4 @@
-# shooting - codeforces
+# shooting - CodeForces
 # accepted
 
 import math

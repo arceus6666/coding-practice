@@ -1,4 +1,4 @@
-# Divisibility - codeforces
+# Divisibility - CodeForces
 # accepted
 
 import math, sys

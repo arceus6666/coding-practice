@@ -1,4 +1,4 @@
-# Word - codeforces
+# Word - CodeForces
 # accepted
 
 import math

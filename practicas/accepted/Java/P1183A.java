@@ -1,6 +1,6 @@
 
-// Nearest Interesting Number - codeforces
-// ACCEPTED!
+// Nearest Interesting Number - CodeForces
+// Status: Accepted!
 
 import java.util.Scanner;
 

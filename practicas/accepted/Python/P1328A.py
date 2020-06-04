@@ -1,4 +1,4 @@
-# Divisibility Problem - codeforces
+# Divisibility Problem - CodeForces
 # accepted
 
 import math

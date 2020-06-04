@@ -1,4 +1,4 @@
-# choose Two Numbers - codeforces
+# choose Two Numbers - CodeForces
 # accepted
 
 import math

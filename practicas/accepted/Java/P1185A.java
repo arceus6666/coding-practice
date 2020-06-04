@@ -1,6 +1,6 @@
 
-// ropewalkers - codeforces
-// ACCEPTED!
+// Ropewalkers - CodeForces
+// Status: Accepted!
 
 import java.util.Arrays;
 import java.util.Scanner;

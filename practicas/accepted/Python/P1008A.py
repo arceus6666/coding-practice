@@ -1,4 +1,4 @@
-# Romaji - codeforces
+# Romaji - CodeForces
 # accepted
 
 import math

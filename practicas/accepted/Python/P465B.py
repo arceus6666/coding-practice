@@ -1,4 +1,4 @@
-# Inbox (100500) - codeforces
+# Inbox (100500) - CodeForces
 # accepted
 
 import math

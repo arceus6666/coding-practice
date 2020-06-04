@@ -1,6 +1,6 @@
 
-// chunga-changa - codeforces
-// ACCEPTED!
+// Chunga-changa - CodeForces
+// Status: Accepted!
 
 import java.math.BigInteger;
 import java.util.Scanner;

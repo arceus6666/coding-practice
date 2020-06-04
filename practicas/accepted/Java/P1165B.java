@@ -1,6 +1,6 @@
 
-// Polycarp Training - codeforces
-// ACCEPTED!
+// Polycarp Training - CodeForces
+// Status: Accepted!
 
 import java.util.ArrayList;
 import java.util.Collections;

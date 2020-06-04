@@ -1,6 +1,6 @@
 
-// Serval and Toy Bricks - codeforces
-// ACCEPTED!
+// Serval and Toy Bricks - CodeForces
+// Status: Accepted!
 
 import java.util.Scanner;
 

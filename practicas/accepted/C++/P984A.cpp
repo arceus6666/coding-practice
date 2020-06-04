@@ -1,5 +1,5 @@
-// game - codeforces
-// accepted
+// Game - CodeForces
+// Status: Accepted
 
 #include <iostream>
 #include <bits/stdc++.h>

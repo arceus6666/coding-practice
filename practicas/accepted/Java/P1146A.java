@@ -1,6 +1,6 @@
 
-// love "a" - codeforces
-// ACCEPTED!
+// Love "a" - CodeForces
+// Status: Accepted!
 
 import java.util.Scanner;
 

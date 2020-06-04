@@ -1,4 +1,4 @@
-# Dawid and Bags of Candies - codeforces
+# Dawid and Bags of Candies - CodeForces
 # accepted
 import math
 import sys

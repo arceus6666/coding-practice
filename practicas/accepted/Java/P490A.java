@@ -1,5 +1,5 @@
-// team olympiad - codefroces
-// accepted
+// Team olympiad - codefroces
+// Status: Accepted
 
 import java.util.ArrayList;
 // import java.util.Arrays;

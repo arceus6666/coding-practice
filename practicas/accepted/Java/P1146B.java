@@ -1,6 +1,6 @@
 
-// hata "a" - codeforces
-// ACCEPTED!
+// Hata "a" - CodeForces
+// Status: Accepted!
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-# Divisors of Two Integers - codeforces
+# Divisors of Two Integers - CodeForces
 # accepted
 
 import math

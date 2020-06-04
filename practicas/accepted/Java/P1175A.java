@@ -1,6 +1,6 @@
 
 // From hero to zero
-// ACCEPTED!
+// Status: Accepted!
 
 import java.math.BigInteger;
 import java.util.Scanner;

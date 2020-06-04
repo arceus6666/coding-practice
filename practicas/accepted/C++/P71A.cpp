@@ -1,5 +1,5 @@
-// way too long words - codeforces
-// accepted
+// Way too long words - CodeForces
+// Status: Accepted
 
 #include <iostream>
 using namespace std;

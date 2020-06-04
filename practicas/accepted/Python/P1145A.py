@@ -1,4 +1,4 @@
-# Thanos Sort - codeforces
+# Thanos Sort - CodeForces
 # accepted
 
 import math, sys

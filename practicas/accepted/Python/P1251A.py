@@ -1,4 +1,4 @@
-# Broken Keyboard - codeforces
+# Broken Keyboard - CodeForces
 # accepted
 
 import math, sys

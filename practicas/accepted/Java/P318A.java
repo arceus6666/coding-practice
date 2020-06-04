@@ -1,5 +1,5 @@
-// even odds - codeforces
-// 
+// Even odds - CodeForces
+// Status: Unsolved
 
 import java.math.BigInteger;
 import java.util.Scanner;

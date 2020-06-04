@@ -1,6 +1,6 @@
 
-// A pile of stones - codeforces
-// ACCEPTED!
+// A pile of stones - CodeForces
+// Status: Accepted!
 
 import java.util.Scanner;
 

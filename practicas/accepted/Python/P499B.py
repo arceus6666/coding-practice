@@ -1,4 +1,4 @@
-# Lecture - codeforces
+# Lecture - CodeForces
 # accepted
 
 def inlt():

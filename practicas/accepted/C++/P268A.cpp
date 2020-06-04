@@ -1,5 +1,5 @@
-// games - codeforces
-// accepted
+// Games - CodeForces
+// Status: Accepted
 #include <iostream>
 using namespace std;
 

@@ -1,6 +1,6 @@
 
 // Silent Classroom - Codeforces
-// ACCEPTED!
+// Status: Accepted!
 import java.util.Scanner;
 
 public class P1166A {

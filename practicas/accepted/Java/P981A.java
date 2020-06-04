@@ -1,5 +1,5 @@
-// antipalindrome - codeforces
-// accepted
+// Antipalindrome - CodeForces
+// Status: Accepted
 
 import java.util.Scanner;
 

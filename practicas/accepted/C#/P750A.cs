@@ -1,5 +1,5 @@
-// New Year and Hurry - codeforces
-// accepted
+// New Year and Hurry - CodeForces
+// Status: Accepted
 
 using System;
 

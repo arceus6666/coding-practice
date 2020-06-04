@@ -1,4 +1,4 @@
-# I_love_%username% - codeforces
+# I_love_%username% - CodeForces
 # accepted
 
 

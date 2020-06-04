@@ -1,4 +1,4 @@
-# Translation - codeforces
+# Translation - CodeForces
 # accepted
 
 import math

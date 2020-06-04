@@ -1,5 +1,5 @@
-// Bark to unlock - codeforces
-// accepted
+// Bark to unlock - CodeForces
+// Status: Accepted
 
 import java.util.Scanner;
 

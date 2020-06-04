@@ -1,6 +1,6 @@
 
 // WERTYU - UVA
-// ACCEPTED!
+// Status: Accepted!
 
 import java.util.HashMap;
 import java.util.Map;

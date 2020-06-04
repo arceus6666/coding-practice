@@ -1,5 +1,5 @@
-// restoring password - codeforces
-// accepted
+// Restoring password - CodeForces
+// Status: Accepted
 
 import java.util.ArrayList;
 import java.util.Scanner;

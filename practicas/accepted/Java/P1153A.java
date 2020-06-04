@@ -1,6 +1,6 @@
 
-// Serval and bus - codeforces
-// ACCEPTED !
+// Serval and bus - CodeForces
+// Status: Accepted !
 import java.util.Scanner;
 
 public class P1153A {

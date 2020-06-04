@@ -1,5 +1,5 @@
-// Aramic script - codeforces
-// Accepted
+// Aramic script - CodeForces
+// Status: Accepted
 
 import java.util.Arrays;
 import java.util.HashSet;

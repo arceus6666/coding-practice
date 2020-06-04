@@ -1,5 +1,5 @@
-// boy or girl - codeforces
-// Accepted
+// Boy or girl - CodeForces
+// Status: Accepted
 
 import java.util.HashSet;
 import java.util.Scanner;

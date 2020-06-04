@@ -1,5 +1,5 @@
-// little c loves 3 - codeforces
-// accepted
+// Little c loves 3 - CodeForces
+// Status: Accepted
 
 import java.util.Arrays;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-# Beautiful Year - codeforces
+# Beautiful Year - CodeForces
 # accepted
 
 import math, sys

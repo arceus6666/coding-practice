@@ -1,5 +1,5 @@
-// Ehab and another construction problem - codeforces
-// accepted
+// Ehab and another construction problem - CodeForces
+// Status: Accepted
 
 import java.util.Scanner;
 

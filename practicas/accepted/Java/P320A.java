@@ -1,5 +1,5 @@
-// Magic Numbers - codeforces
-// accepted
+// Magic Numbers - CodeForces
+// Status: Accepted
 
 import java.util.Scanner;
 

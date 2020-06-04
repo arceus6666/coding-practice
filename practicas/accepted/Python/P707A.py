@@ -1,4 +1,4 @@
-# Brain's Photos - codeforces
+# Brain's Photos - CodeForces
 # accepted
 
 import math, sys

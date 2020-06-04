@@ -1,4 +1,4 @@
-# Choosing Teams - codeforces
+# Choosing Teams - CodeForces
 # accepted
 
 import math, sys

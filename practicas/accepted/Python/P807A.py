@@ -1,4 +1,4 @@
-# Is it rated? - codeforces
+# Is it rated? - CodeForces
 # accepted
 
 import math

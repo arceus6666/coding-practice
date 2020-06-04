@@ -1,6 +1,6 @@
 
-// Reachable numbers - codeforces
-// ACCEPTED!
+// Reachable numbers - CodeForces
+// Status: Accepted!
 
 import java.util.ArrayList;
 import java.util.List;

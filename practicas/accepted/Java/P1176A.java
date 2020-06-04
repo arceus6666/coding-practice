@@ -1,6 +1,6 @@
 
-// divide it! - codeforces
-// ACCEPTED!
+// Divide it! - CodeForces
+// Status: Accepted!
 
 import java.math.BigInteger;
 import java.util.Scanner;

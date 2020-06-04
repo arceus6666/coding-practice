@@ -1,6 +1,6 @@
 
-// Long Numbers - codeforces
-// ACCEPTED!
+// Long Numbers - CodeForces
+// Status: Accepted!
 
 import java.util.Scanner;
 

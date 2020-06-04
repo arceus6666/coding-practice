@@ -1,4 +1,4 @@
-# Maximum in Table - codeforces
+# Maximum in Table - CodeForces
 # accepted
 
 import math

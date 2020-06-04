@@ -1,4 +1,4 @@
-# Card Construction - codeforces
+# Card Construction - CodeForces
 # accepted
 
 import math, sys

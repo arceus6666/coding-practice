@@ -1,5 +1,5 @@
-// anton and polyhedrons - codeforces
-// accepted
+// Anton and polyhedrons - CodeForces
+// Status: Accepted
 
 import java.util.Scanner;
 

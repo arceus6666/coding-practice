@@ -1,4 +1,4 @@
-# Two Rabbits - codeforces
+# Two Rabbits - CodeForces
 # accepted
 
 import math, sys

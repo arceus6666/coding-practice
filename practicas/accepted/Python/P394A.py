@@ -1,4 +1,4 @@
-# Counting Sticks - codeforces
+# Counting Sticks - CodeForces
 # accepted
 
 import math, sys

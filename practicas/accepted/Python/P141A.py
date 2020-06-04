@@ -1,4 +1,4 @@
-# Amusing Joke - codeforces
+# Amusing Joke - CodeForces
 # accepted
 
 import math

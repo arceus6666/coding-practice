@@ -1,6 +1,6 @@
 
-// neko finds grapes - codeforces
-// ACCEPTED!
+// Neko finds grapes - CodeForces
+// Status: Accepted!
 
 import java.util.Scanner;
 

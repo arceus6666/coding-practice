@@ -1,5 +1,5 @@
-// prefixes - codeforces
-// accepted
+// Prefixes - CodeForces
+// Status: Accepted
 
 #include <iostream>
 using namespace std;

@@ -1,5 +1,5 @@
-// system of equations - codeforces
-// accepted
+// System of equations - CodeForces
+// Status: Accepted
 
 import java.util.Scanner;
 

@@ -1,5 +1,5 @@
-// soldier and bananas
-// accepted
+// Soldier and bananas
+// Status: Accepted
 
 #include <iostream>
 using namespace std;

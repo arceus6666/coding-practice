@@ -1,4 +1,4 @@
-# USB Flash Drives - codeforces
+# USB Flash Drives - CodeForces
 # accepted
 
 import math

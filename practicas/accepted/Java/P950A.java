@@ -1,5 +1,5 @@
-// left-handers, right-handers and ambidexters - codeforces
-// accepted
+// Left-handers, right-handers and ambidexters - CodeForces
+// Status: Accepted
 
 import java.util.Scanner;
 

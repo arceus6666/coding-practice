@@ -1,6 +1,6 @@
 
-// Restoring Three Numbers - codeforces
-// ACCEPTED!
+// Restoring Three Numbers - CodeForces
+// Status: Accepted!
 
 import java.util.Arrays;
 import java.util.Scanner;

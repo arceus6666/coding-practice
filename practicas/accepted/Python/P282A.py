@@ -1,4 +1,4 @@
-# Bit++ - codeforces
+# Bit++ - CodeForces
 # accepted
 
 import math

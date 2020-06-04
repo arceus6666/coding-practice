@@ -1,6 +1,6 @@
 
 // Eating Soup - Codeforces
-// ACCEPTED!
+// Status: Accepted!
 
 import java.util.Scanner;
 
