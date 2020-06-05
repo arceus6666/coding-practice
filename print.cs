@@ -18,3 +18,8 @@ static Func<string> insr =
 // space separated string input
 static Func<string[]> inlt =
   () => Console.ReadLine().Split(' ');
+
+// char to int
+char c = 'a';
+int i = (int) c;
+
