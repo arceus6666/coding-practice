@@ -23,3 +23,4 @@ static Func<string[]> inlt =
 char c = 'a';
 int i = (int) c;
 
+// multiplicaciones que superen el limite de int deben tener un tipo más grande antes de multiplicarlos
