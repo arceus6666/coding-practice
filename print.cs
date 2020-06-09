@@ -19,6 +19,13 @@ static Func<string> insr =
 static Func<string[]> inlt =
   () => Console.ReadLine().Split(' ');
 
+// print array (replace T with type)
+static Func<T[], string> printArray =
+  (T[] arr) => {
+    string s = "";
+    Array.ForEach(arr, (T e) => { s += e + " "; });
+    return s;
+  };
 // char to int
 char c = 'a';
 int i = (int) c;
